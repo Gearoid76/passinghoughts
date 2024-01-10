@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//passingthoughts.github.io/static/css/main.861c3f69.css",
+    "main.js": "/https//passingthoughts.github.io/static/js/main.3a79c3bc.js",
+    "static/js/787.08464283.chunk.js": "/https//passingthoughts.github.io/static/js/787.08464283.chunk.js",
+    "index.html": "/https//passingthoughts.github.io/index.html",
+    "main.861c3f69.css.map": "/https//passingthoughts.github.io/static/css/main.861c3f69.css.map",
+    "main.3a79c3bc.js.map": "/https//passingthoughts.github.io/static/js/main.3a79c3bc.js.map",
+    "787.08464283.chunk.js.map": "/https//passingthoughts.github.io/static/js/787.08464283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861c3f69.css",
+    "static/js/main.3a79c3bc.js"
+  ]
+}
